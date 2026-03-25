@@ -3,5 +3,5 @@
 통해서 더욱 편하게 이러한 자원들을 관리 할 수 있다는 것들을 배웠다. 
 다익스트라의 경우 동심원 탐색을 하기 때문에 시작지점을 기준으로 여러개의 장소의 거리 등을 알고 싶을 때 사용하면 좋다는 것
 A*의 경우 직선 탐색을 하기 때문에 여러가지 휴리스틱을 사용하는데 이를 통해서 시작지점과 목표지점의 최단거리, 가장 비용이 적은 거리 등 조건이 있을 때 사용하면 좋다는 것을 배웠다.
-<img width="437" height="70" alt="image" src="https://github.com/user-attachments/assets/26b6dc54-468b-40c2-af5d-9863cd523c81" />
 
+<img width="437" height="70" alt="image" src="https://github.com/user-attachments/assets/26b6dc54-468b-40c2-af5d-9863cd523c81" />
